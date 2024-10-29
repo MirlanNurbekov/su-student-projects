@@ -1,0 +1,31 @@
+/* Footer Styling */
+.footer {
+  background-color: #0f3460; /* Dark purple background */
+  color: white; /* White text */
+  padding: 20px;
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  margin-top: 30px;
+}
+
+/* Footer Links */
+.footer p {
+  margin: 0;
+}
+
+.social-links {
+  margin-top: 10px;
+}
+
+.social-links a {
+  color: white; /* White text */
+  margin: 0 10px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+  color: #e94560; /* Light purple hover effect */
+}

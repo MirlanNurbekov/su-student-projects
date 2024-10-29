@@ -1,0 +1,77 @@
+/* General container styling */
+.container {
+  padding: 20px;
+  background-color: #f0f0f0;
+  color: #333;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Page Header */
+.fyp-page h1 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #2f2f2f;
+}
+
+/* Projects List */
+.projects-list {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.project-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 15px 0;
+  border-bottom: 1px solid #ccc; /* Horizontal line for each student */
+}
+
+.project-details {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Student and Project Topic Styling */
+.student-name {
+  font-weight: bold;
+  color: #333;
+  font-size: 1.2rem;
+}
+
+.project-topic {
+  font-size: 1rem;
+  color: #555;
+  margin-top: 5px;
+}
+
+/* Progress Bar */
+.progress-bar {
+  background-color: #4a4a4a;
+  border-radius: 10px;
+  overflow: hidden;
+  width: 30%;
+  height: 20px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.progress {
+  height: 100%;
+  background-color: #28a745; /* Green progress indicator */
+  transition: width 0.5s ease;
+}
+
+.progress-text {
+  position: absolute;
+  left: 10px; /* Percentage on the left of the bar */
+  color: white;
+  font-weight: bold;
+  font-size: 0.9rem;
+  line-height: 20px;
+}

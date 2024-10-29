@@ -1,0 +1,59 @@
+/* General container styling */
+.container {
+  padding: 20px;
+  background-color: #f0f0f0;
+  color: #333;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* About Header */
+.about-header h1 {
+  text-align: center;
+  color: #2f2f2f;
+  margin-bottom: 10px;
+}
+
+.about-header p {
+  text-align: center;
+  font-size: 1.1rem;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+/* Section styling */
+.section {
+  margin-bottom: 30px;
+}
+
+.section h2 {
+  color: #2f2f2f;
+  margin-bottom: 15px;
+}
+
+.section p {
+  color: #555;
+  line-height: 1.6;
+  font-size: 1rem;
+}
+
+/* Resources List */
+.resources-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.resources-list li {
+  margin-bottom: 10px;
+}
+
+.resources-list a {
+  color: #2f2f2f;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.resources-list a:hover {
+  color: #28a745; /* Green color on hover */
+}
