@@ -3,7 +3,7 @@ import '../Styles/FYPstudents.css';
 
 const FYPstudents = () => {
     const students = [
-        { name: "Kanbolotov Edelbek", topic: "Information mortal for Tourism company (Web app)", score: 40 },
+        { name: "Kanbolotov Edelbek", topic: "Information mortal for Tourism company (Web app)", score: 60 },
         { name: "Shakirov Niyaz", topic: "Cinema management system (Desktop app)", score: 30 },
         { name: "Mamatkerimova Aidai", topic: "Car dealer management system (Desktop app)", score: 60 },
         { name: "Mukanbetova Kunduz", topic: "Web application for construction company (Web app)", score: 70 },

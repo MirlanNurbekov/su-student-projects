@@ -3,14 +3,14 @@
 export const projectData = {
   'CS - 21': {
       individualProjects: [
-          { name: "Isa Melsov", score: 40 },
+          { name: "Isa Melsov", score: 70 },
           { name: "Orozaliev Adilet", score: 30 },
-          { name: "Ismankulov Nursultan", score: 30 },
+          { name: "Ismankulov Nursultan", score: 50 },
           { name: "Nurbekov Sanzhar", score: 30 },
-          { name: "Osmonov Islam", score: 40 },
+          { name: "Osmonov Islam", score: 50 },
           { name: "Mambetkazieva Saida", score: 20 },
           { name: "Karymbaev Nurlan", score: 10 },
-          { name: "Sattarhzhanov Daniel", score: 40 }
+          { name: "Sattarzhanov Daniel", score: 80 }
       ],
       teamProjects: [
           {
@@ -26,25 +26,25 @@ export const projectData = {
           {
               team: "Team 3 - Gate Master",
               members: ["Sattarhzhanov Daniel", "Mambetkazieva Saida"],
-              score: 60
+              score: 70
           }
       ]
   },
   'CS - 22': {
       individualProjects: [
-          { name: "Mirlanbekov Nurzhigit", score: 10 },
+          { name: "Mirlanbekov Nurzhigit", score: 30 },
           { name: "Nasipbekov Bekbolsun", score: 10 },
-          { name: "Monolov Ulukbek", score: 20 },
-          { name: "Asakeeva Alima", score: 5 },
+          { name: "Monolov Ulukbek", score: 30 },
+          { name: "Asakeeva Alima", score: 20 },
           { name: "Cholponbaeva Mirgul", score: 30 },
           { name: "Misirova Rabiga", score: 30 },
           { name: "Bolotbekova Nasikat", score: 30 },
           { name: "Dzheenbekova Saule", score: 30 },
-          { name: "Zhumabekov Zhanbolot", score: 10 },
-          { name: "Alykulov Alan", score: 40 },
-          { name: "Temirbeov Nurlan", score: 20 },
-          { name: "Kurmankojoev Omurbek", score: 20 },
-          { name: "Eshbolotov Argen", score: 50 },
+          { name: "Zhumabekov Zhanbolot", score: 20 },
+          { name: "Alykulov Alan", score: 20 },
+          { name: "Temirbeov Nurlan", score: 0 },
+          { name: "Kurmankojoev Omurbek", score: 0 },
+          { name: "Eshbolotov Argen", score: 10 },
           { name: "Dzhanybekov Rasul", score: 20 }
       ],
       teamProjects: [
@@ -73,13 +73,13 @@ export const projectData = {
   'CS - 23': {
       individualProjects: [
           { name: "Kyzdarbekov Nurdaulet", score: 20 },
-          { name: "Kenenbaev Erkin", score: 30 },
+          { name: "Kenenbaev Erkin", score: 40 },
           { name: "Em Anzalya", score: 20 },
           { name: "Kuralbekov Nurjigit", score: 30 },
           { name: "Bakytbekov Zhakypbay", score: 20 },
           { name: "Obolbekov Aidin", score: 20 },
           { name: "Sadyrbekova Jasmin", score: 20 },
-          { name: "Temirbekov Nurzhigit", score: 20 },
+          { name: "Temirbekov Nurzhigit", score: 50 },
           { name: "Sharshenbekov Akjol", score: 60 },
           { name: "NurlanbekUulu Nurzhigit", score: 20 },
           { name: "Seitalieva Altynai", score: 20 }
@@ -104,7 +104,7 @@ export const projectData = {
   },
   'CS - 24': {
       individualProjects: [
-          { name: "Nuszhanoa Amina", score: 30 },
+          { name: "Nuszhanoa Amina", score: 40 },
           { name: "Dastan Boobekov", score: 20 },
           { name: "Toktalieva Kamila", score: 30 },
           { name: "Tabyldieva Akmaral", score: 30 },
